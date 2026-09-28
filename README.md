@@ -1,28 +1,18 @@
-# Plain-Academic Template
-A truly simple website template for academics. It was developed with simplicity in mind (both in terms of style and in code complexity).
+# William DeGroot
 
-Just download the two files (index.html and photo.gif) and start editing straightaway.
+Personal website: https://willdeg.github.io/
 
+GitHub Pages serves the static files at the root of the main branch.
 
-<img src="/img/frontpage.png" width="60%" height="60%">
+- `index.html`: About, résumé, GitHub, and LinkedIn
+- `blog.html`: Blog index
+- `why-slt.html`: What is Singular Learning Theory?
+- `research.html`: Research
+- `style.css`: Typography, colors, and responsive layouts
+- `post.js`: Desktop margin notes and mobile note dialogs
+- `assets/`: Images, PDFs, and locally hosted fonts
+- `vendor/katex/`: Math styles and fonts (equations are pre-rendered)
 
-If you have suggestions for improvements feel free to make a pull request or open an issue.
-
-If you are using it, I'd be happy to hear from you! You can drop me a line at ([link](https://mavroud.is))!
-
-
-You can get more ideas from other nice people using this template: 
-- [Jonathan Bootle](https://jbootle.github.io/)
-- [Hossein Rezaei](https://www.cs.ucf.edu/~rezaei)
-- [Gustavo Cevolani](http://www.gustavocevolani.it/)
-- [Isabel Papadimitriou](https://nlp.stanford.edu/~isabelvp/)
-- [Debjani Saha](https://www.cs.umd.edu/~dsaha/) 
-- [Dong Chen](https://dongchen-coder.github.io/)
-- [Sourav Chatterjee](https://statweb.stanford.edu/~souravc/index.html)
-- [Chenfanfu Jiang](https://www.seas.upenn.edu/~cffjiang/)
-- [Masum Hasan](http://masumhasan.net/)
-- [Tapajit Dey](https://tapjdey.github.io/)
-- [Jakob Brounstein](https://jakobbrounstein.github.io/)
-
-
-Please do not remove the attibution link of the template, so that other people can find it too.
+No installation or build is needed. Preview locally with `python3 -m http.server`.
+The previous website is preserved in Git history. Third-party licenses are
+included alongside their assets; the historical template license is retained.
