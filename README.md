@@ -7,6 +7,7 @@ GitHub Pages serves the static files at the root of the main branch.
 - `index.html`: About, résumé, GitHub, and LinkedIn
 - `blog.html`: Blog index
 - `why-slt.html`: What is Singular Learning Theory?
+- `singular-integrals.html`: A brief detour into singular integrals.
 - `research.html`: Research
 - `style.css`: Typography, colors, and responsive layouts
 - `post.js`: Desktop margin notes and mobile note dialogs
